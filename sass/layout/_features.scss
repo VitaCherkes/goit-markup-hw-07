@@ -1,0 +1,21 @@
+.features {
+    display: flex;
+}
+.title-li {
+    width: 270px;
+}
+.title-li{
+    margin-left: 30px;
+}
+.title-li:first-child{
+  margin-left: 0;
+}
+
+.features .title{
+    color: var(--title-text-color);
+font-weight: 700;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
