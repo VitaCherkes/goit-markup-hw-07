@@ -18,7 +18,7 @@
     background-size: cover;
 }
 
-.hero .hero-title {
+.hero .hero__title {
     color: var(--background);
 font-weight: 900;
 font-size: 44px;
@@ -27,7 +27,7 @@ text-align: center;
 letter-spacing: 0.06em;
 text-transform: uppercase;
 }
-.hero-title{
+.hero__title{
     width: 696px;
     margin: 0 auto;
     margin-bottom: 30px;
