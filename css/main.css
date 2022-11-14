@@ -1154,11 +1154,6 @@ ul {
   list-style: none;
 }
 
-.section {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}
-
 body {
   background-color: var(--background);
   color: var(--primary-text-color);
@@ -1183,5 +1178,10 @@ body {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
+}
+
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 /*# sourceMappingURL=main.css.map */
